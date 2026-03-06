@@ -1,5 +1,6 @@
 # Generated site (transformed by Jekyll)
 _site
+.DS_Store
 
 # Bundler configuration & artifacts
 .bundle/config
